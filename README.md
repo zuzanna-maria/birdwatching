@@ -7,5 +7,5 @@ Requirements: Javascript, Node.js, npm
 ```
 npm install
 node app.js
-
 ```
+Navigate to localhost:3000
