@@ -6,6 +6,6 @@ Requirements: Javascript, Node.js, npm
 
 ```
 npm install
-npm start
+node app.js
 
 ```
