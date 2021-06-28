@@ -84,7 +84,7 @@ displayBirds = () => {
 
       <p>Species</p>
       <input  type="text" style={{ marginLeft: '.5rem' }}  onChange={this.saveSpecies} />
-      <p>Location</p>
+      <p>Location (city)</p>
       <input type="text" onChange={this.saveLocation} />
       <p><button onClick={this.displaySightings}> Add to log </button></p>
       <p>Sighting Log: </p>
